@@ -1,3 +1,15 @@
+<h1>This is the link for the app
+https://netflix-a45ad.web.app/ And complete mobile friendly design </h1> 
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
